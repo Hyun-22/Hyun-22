@@ -8,7 +8,6 @@
 - 🎈 Skills
   - Lang : Python / C++
   - Framework : Pytorch, Tensorflow
-- 📫 How to reach me mickey9624@gmail.com
 
 <!---
 Hyun-22/Hyun-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
