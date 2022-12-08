@@ -5,7 +5,9 @@
   - Data : Image, Poincloud
   - Algorithm : Object detection, Semantic/Panoptic segmentation, Classification
   - etc : Docker, ROS, Model Compression(TensorRT)
-- 💞️ I’m looking to collaborate on ...
+- 🎈 Skills
+  - Lang : Python / C++
+  - Framework : Pytorch, Tensorflow
 - 📫 How to reach me mickey9624@gmail.com
 
 <!---
